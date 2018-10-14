@@ -1,0 +1,66 @@
+.logo{
+	width: 250px;
+	display: block;
+	margin: auto;
+}
+
+.date
+{ 
+  float: right;
+}
+
+.menu_list
+{
+	list-style: none;
+	background-color: #CD6155;
+	height: 40px;
+
+}
+.menu_option
+{
+	display: inline-block;
+	width: 100px;
+	/*background-color: white;*/
+}
+
+.link
+{
+  color: black;
+}
+.link:link{
+	text-decoration: none;
+	color: black;
+}
+
+
+.submenu_list{
+	list-style: none;
+	background-color: #F4D03F;
+	height: 95px;
+}
+
+.submenu_option{
+	display: inline-block;
+	width: 95px;
+	background-color: #F4D03F;
+}
+
+.icon{
+	display: inline-block;
+	width: 85px;
+}
+
+.submenu a{
+	margin: 0px;
+	padding: 0px;
+	height: 0px;
+	width: 0px;
+	background-color: #F4D03F;
+}
+
+.icon:hover{
+	background-color: #2980B9;
+}
+
+
+
